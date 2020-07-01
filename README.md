@@ -7,6 +7,6 @@ Finally I used the pixabay API to display an image of the location.
 The API keys are hidden in the .env file and then stored as a variable in src/server/server.js
 
 To run this project use:
-npm run build
+npm run build then
 npm start 
 
